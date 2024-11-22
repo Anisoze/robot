@@ -1,0 +1,1 @@
+/home/user_robohub2/catkin_ws/devel/.private/moveit_tutorials/share/moveit_tutorials/cmake/moveit_tutorialsConfig.cmake

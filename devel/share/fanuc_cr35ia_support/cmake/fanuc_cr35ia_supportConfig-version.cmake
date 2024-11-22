@@ -1,0 +1,1 @@
+/home/user_robohub2/catkin_ws/devel/.private/fanuc_cr35ia_support/share/fanuc_cr35ia_support/cmake/fanuc_cr35ia_supportConfig-version.cmake

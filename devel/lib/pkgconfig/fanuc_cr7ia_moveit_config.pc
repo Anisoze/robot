@@ -1,0 +1,1 @@
+/home/user_robohub2/catkin_ws/devel/.private/fanuc_cr7ia_moveit_config/lib/pkgconfig/fanuc_cr7ia_moveit_config.pc

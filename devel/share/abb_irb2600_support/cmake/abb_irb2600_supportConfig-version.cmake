@@ -1,0 +1,1 @@
+/home/user_robohub2/catkin_ws/devel/.private/abb_irb2600_support/share/abb_irb2600_support/cmake/abb_irb2600_supportConfig-version.cmake

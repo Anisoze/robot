@@ -1,0 +1,1 @@
+/home/user_robohub2/catkin_ws/devel/.private/my_robot_moveit_config/share/my_robot_moveit_config/cmake/my_robot_moveit_configConfig-version.cmake

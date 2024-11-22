@@ -1,0 +1,1 @@
+/home/user_robohub2/catkin_ws/devel/.private/my_robot_moveit_config/lib/pkgconfig/my_robot_moveit_config.pc

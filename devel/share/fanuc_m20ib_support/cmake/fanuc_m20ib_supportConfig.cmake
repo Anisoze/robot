@@ -1,0 +1,1 @@
+/home/user_robohub2/catkin_ws/devel/.private/fanuc_m20ib_support/share/fanuc_m20ib_support/cmake/fanuc_m20ib_supportConfig.cmake

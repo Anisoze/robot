@@ -1,0 +1,1 @@
+/home/user_robohub2/catkin_ws/devel/.private/planning_system/lib/pkgconfig/planning_system.pc

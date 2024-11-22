@@ -1,0 +1,1 @@
+/home/user_robohub2/catkin_ws/devel/.private/fanuc_resources/share/fanuc_resources/cmake/fanuc_resourcesConfig-version.cmake
